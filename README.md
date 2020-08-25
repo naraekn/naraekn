@@ -11,5 +11,5 @@
 * [iOS 다운받기](https://apps.apple.com/app/migrainecue/id1509203442) / [Android 다운받기](https://play.google.com/store/apps/details?id=com.physiocue.app.migrainecue)
 
 ### 캐럿코딩 데모 앱 개발  - flutter
-* **flutter**로 개발 (2019.3 ~ 2019.06)
+* **flutter**로 개발 (2019.5 ~ 2019.06)
 * 실리콘밸리 현지 사용자 테스트에 사용 (2019.07)
